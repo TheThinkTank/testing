@@ -1,0 +1,3 @@
+[submodule "submodules/submodule1/testsubmod"]
+	path = submodules/testsubmod
+	url = https://github.com/TheThinkTank/testsubmod
